@@ -4,6 +4,9 @@ namespace Model;
 
 use Core\Model;
 
+/**
+ * @method static findByEmail($userEmail)
+ */
 class Participant extends Model
 {
 

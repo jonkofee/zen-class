@@ -16,14 +16,14 @@ class Table extends Model
 	protected static $tableName = 'Tables';
 
 	/**
-	 * @ColumnName name
+	 * @ColumnName Name
 	 *
 	 * @var string
 	 */
 	protected $name;
 
 	/**
-	 * @ColumnName hide
+	 * @ColumnName Hide
 	 *
 	 * @var bool
 	 */
